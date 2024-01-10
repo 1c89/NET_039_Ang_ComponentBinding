@@ -1,1 +1,21 @@
 /* You can add global styles to this file, and also import other style files */
+
+
+body,
+html {
+  background-color: cornflowerblue;
+}
+
+.app-container {
+  max-width: 75%;
+  margin: 10px auto;
+}
+
+hr {
+  height: 10px;
+  color: #fff;
+}
+.btn-primary
+{
+  margin-left: 10px;
+}
